@@ -1,2 +1,4 @@
-Hola, este es mi respositorio en donde se encuentra el práctico N°2 de HTML con Bootstrap y sin Bootstrap. Cada carpeta tiene un archivo HTML y otro CSS que le corresponde.
-También esta el TP N°1 de JPA.
+Hola, este es mi respositorio en donde se encuentra:
+  -El práctico N°2 de HTML con Bootstrap y sin Bootstrap. 
+  -El TP N°1 de JPA que es la carpeta "SpringDdS".
+  -El TP de TypeScript que es la carpeta "tpTypeScript"
